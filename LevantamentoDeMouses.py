@@ -1,19 +1,3 @@
-#receber um numero indeterminado de mouses cada uma contendo um numero
-#de identificação do mouse e o tipo de defeito.
-
-#4 tipos de defeitos:
-# a -> necessita de esfera
-# b -> necessita de limpeza
-# c -> necessita do cabo ou conector
-# d -> quebrado ou inutilizado
-
-#uma identificação igual a zero encerra a entrada de dados
-
-#usuário deve decidir então se quer realizar uma busca pelo numero de
-#identificação do mouse e com isso seja mostrado qual o defeito registrado
-#ou encerrar o programa.
-
-#quando encerrar deve conter --> id --> defeito --> quantidade --> percentual
 
 numero_id = []
 defeito_lista = []
