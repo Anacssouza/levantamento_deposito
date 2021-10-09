@@ -1,4 +1,4 @@
-<h1 align="center"> 🖱️ Levantamento de mouses defeituosos de um deposito 🖱️ </h1>
+<h1 align="center">🖱️Levantamento de mouses defeituosos de um deposito🖱️</h1>
 
 (atividade proposta na disciplina de algoritmos e programação, porém com algumas modificações pessoais)
 
