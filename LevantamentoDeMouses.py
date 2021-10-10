@@ -82,7 +82,6 @@ def consultar():
                 for i in range(0,len(consulta_lista)):
                     if  consulta_lista[i] == consultaDefeito:
                         print()
-                        print("Código defeito  ->  Id ")
                         print(consultaDefeito,"      ", "->", "     ", numero_id[i])
             else:
                 print()
